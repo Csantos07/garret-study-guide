@@ -1,0 +1,15 @@
+{
+  "name": "garrett",
+  "version": "1.0.0",
+  "description": "This is a study guide for [subject/topic]. It provides a collection of resources, notes, and exercises to help you learn and master [subject/topic].",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
